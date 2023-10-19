@@ -9,6 +9,10 @@
     justify-content: center;
     align-items: center;
     border: 1px solid transparent;
+    color: #001730;
+    background: #e2d4ca;
+    height: 50%;
+    width: 50%;
 }
 
 .modal-close-container {
@@ -49,6 +53,7 @@
     border: none;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: transform 0.5s;
+    background-color: #93AD18;
 }
 
 .button-modale:hover {

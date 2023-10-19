@@ -4,7 +4,7 @@ import './styles/modale.css'
 const Modale = (props) => {
 
     return (
-        <div className="modale" style={props.contentModaleStyle}>
+        <div className="modale">
             <div className="modal-close-container">
                 <div className="modale-close">
                     X
@@ -12,7 +12,7 @@ const Modale = (props) => {
             </div>
             <div className="message-content">
                 <h1 className="message-modale">{props.messageModale}</h1>
-                <button className="button-modale" onClick={props.functionButton} style={props.buttonStyle}>
+                <button className="button-modale">
                     {props.messageBouton}
                 </button>
             </div>
