@@ -16,9 +16,9 @@ function App() {
 
       </header>
       <Modale
-        messageModal='Employee created!'
+        messageModale='Employee created!'
         messageBouton='Close'
-        contentModalStyle={{ color: '#001730', background: '#e2d4ca', height: '50%', width: '50%' }}
+        contentModaleStyle={{ color: '#001730', background: '#e2d4ca', height: '50%', width: '50%' }}
         buttonStyle={{ backgroundColor: '#93AD18' }}
       />
     </div>
