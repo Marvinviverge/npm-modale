@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Marvinviverge/npm-modalecd.git"
+    "url": "git+https://github.com/Marvinviverge/npm-modale.git"
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
