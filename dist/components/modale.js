@@ -22,7 +22,8 @@ const Modale = _ref => {
   }, /*#__PURE__*/_react.default.createElement("div", {
     className: "modal-close-container"
   }, /*#__PURE__*/_react.default.createElement("div", {
-    className: "modale-close"
+    className: "modale-close",
+    onClick: buttonFunction
   }, "X")), /*#__PURE__*/_react.default.createElement("div", {
     className: "message-content"
   }, /*#__PURE__*/_react.default.createElement("h1", {

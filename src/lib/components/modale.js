@@ -1,12 +1,12 @@
 import React from 'react'
 import './styles/modale.css'
 
-const Modale = ({messageModale, messageButton, buttonFunction, isOpen}) => {
+const Modale = ({ messageModale, messageButton, buttonFunction, isOpen }) => {
 
     return (
-        <div className="modale" style={{display: isOpen ? 'block' : 'none'}}>
+        <div className="modale" style={{ display: isOpen ? 'block' : 'none' }}>
             <div className="modal-close-container">
-                <div className="modale-close">
+                <div className="modale-close" onClick={buttonFunction}>
                     X
                 </div>
             </div>
