@@ -1,8 +1,7 @@
-
 import './App.css';
-import Modale from './lib/components/modale';
 
 function App() {
+
   return (
     <div className="App">
       <header className="App-header">
@@ -13,7 +12,6 @@ function App() {
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
           Learn React
         </a>
-
       </header>
     </div>
   );
