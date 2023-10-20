@@ -19,7 +19,8 @@ const Modale = props => {
   }, /*#__PURE__*/_react.default.createElement("h1", {
     className: "message-modale"
   }, props.messageModale), /*#__PURE__*/_react.default.createElement("button", {
-    className: "button-modale"
-  }, props.messageBouton)));
+    className: "button-modale",
+    onClick: props.buttonFunction
+  }, props.messageButton)));
 };
 var _default = exports.default = Modale;
