@@ -12,8 +12,8 @@ const Modale = (props) => {
             </div>
             <div className="message-content">
                 <h1 className="message-modale">{props.messageModale}</h1>
-                <button className="button-modale">
-                    {props.messageBouton}
+                <button className="button-modale" onClick={props.buttonFunction}>
+                    {props.messageButton}
                 </button>
             </div>
         </div>
