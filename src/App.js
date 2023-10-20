@@ -15,7 +15,6 @@ function App() {
         </a>
 
       </header>
-      <Modale messageModale='Employee created!' messageBouton='Close' />
     </div>
   );
 }
