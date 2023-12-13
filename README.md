@@ -1,10 +1,12 @@
 # Bienvenue sur le ReadMe du compostant React "marvi-modale"
 
-La page du composant sur NPM est disponible ici: \
-https://www.npmjs.com/package/marvi-modale
+> [!NOTE]
+> La page du composant sur NPM est disponible ici: \
+> https://www.npmjs.com/package/marvi-modale
 
-Le repo github est disponible ici: \
-https://github.com/Marvinviverge/npm-modale
+> [!NOTE]
+> Le repo github est disponible ici: \
+> https://github.com/Marvinviverge/npm-modale
 
 
 # Procédure d'installation et d'utilisation du module:
@@ -12,13 +14,13 @@ https://github.com/Marvinviverge/npm-modale
 > [!IMPORTANT]
 > Installer le module avec npm:
 
-npm i marvi-modale
+** npm i marvi-modale **
 
 
 > [!IMPORTANT]
 > Importez le composant dans votre projet:
 
-import { Modale } from 'marvi-modale'
+** import { Modale } from 'marvi-modale' **
 
 
 > [!TIP]
