@@ -14,13 +14,13 @@
 > [!IMPORTANT]
 > Installer le module avec npm:
 
-** npm i marvi-modale **
+**npm i marvi-modale**
 
 
 > [!IMPORTANT]
 > Importez le composant dans votre projet:
 
-** import { Modale } from 'marvi-modale' **
+**import { Modale } from 'marvi-modale'**
 
 
 > [!TIP]
